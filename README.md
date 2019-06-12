@@ -1,2 +1,0 @@
-# Borek
-Created with CodeSandbox
